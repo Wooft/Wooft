@@ -1,4 +1,12 @@
-### Hi there 👋
+## Hello all!
+Меня зовут Михаил Колесниченко, я Python разработчик.
+
+### Мой стек:
+Linux, Windows, Bash, Python, Django Framework, Flask, Asyncio, PostgreSQL, Nginx, Git, REST, Docker, Docker-compose, Celery, Redis
+
+### Мои проекты:
+
+### Мои сертификаты:
 
 <!--
 **Wooft/Wooft** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
