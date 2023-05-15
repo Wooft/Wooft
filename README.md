@@ -10,13 +10,14 @@ Linux, Windows, Bash, Python, Django Framework, Flask, Asyncio, PostgreSQL, Ngin
 3. https://github.com/Wooft/Parser_Lvtrade
 
 ### Мои сертификаты:
-# Python: </br>
-https://github.com/Wooft/Netology_Certificate/blob/main/01_Python.pdf </br>
-https://github.com/Wooft/Netology_Certificate/blob/main/04_Python.pdf </br>
-https://github.com/Wooft/Netology_Certificate/blob/main/06_Python.pdf </br>
+#### Python: </br>
+* https://github.com/Wooft/Netology_Certificate/blob/main/01_Python.pdf
+* https://github.com/Wooft/Netology_Certificate/blob/main/04_Python.pdf
+* https://github.com/Wooft/Netology_Certificate/blob/main/06_Python.pdf
 
-# Django: </br>
-https://github.com/Wooft/Netology_Certificate/blob/main/05_Django.pdf </br>
+#### Django: </br>
+* https://github.com/Wooft/Netology_Certificate/blob/main/05_Django.pdf </br>
 
-# SQL и базы данных: </br>
-https://github.com/Wooft/Netology_Certificate/blob/main/03_DataBase.pdf </br>
+#### SQL и базы данных: </br>
+* https://github.com/Wooft/Netology_Certificate/blob/main/03_DataBase.pdf </br>
+
