@@ -5,20 +5,18 @@
 Linux, Windows, Bash, Python, Django Framework, Flask, Asyncio, PostgreSQL, Nginx, Git, REST, Docker, Docker-compose, Celery, Redis
 
 ### Мои проекты:
+1. https://github.com/Wooft/netoly_coursejob_py58
+2. https://github.com/Wooft/Netology_CourseJob_2
+3. https://github.com/Wooft/Parser_Lvtrade
 
 ### Мои сертификаты:
+# Python: </br>
+https://github.com/Wooft/Netology_Certificate/blob/main/01_Python.pdf </br>
+https://github.com/Wooft/Netology_Certificate/blob/main/04_Python.pdf </br>
+https://github.com/Wooft/Netology_Certificate/blob/main/06_Python.pdf </br>
 
-<!--
-**Wooft/Wooft** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Django: </br>
+https://github.com/Wooft/Netology_Certificate/blob/main/05_Django.pdf </br>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# SQL и базы данных: </br>
+https://github.com/Wooft/Netology_Certificate/blob/main/03_DataBase.pdf </br>
