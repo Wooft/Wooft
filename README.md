@@ -12,7 +12,7 @@ Linux, Windows, Bash, Python, Django Framework, Flask, Asyncio, PostgreSQL, Ngin
    PostgreSQL, Python </br>  
    https://github.com/Wooft/Netology_CourseJob_2
 3. Программа парсинга данных с сайта одного из поставщиков для ООО "С-Мастер" </br>
-   Python, AsyncIO </br>
+   Python, AsyncIO
    https://github.com/Wooft/Parser_Lvtrade
 
 ### Мои сертификаты:
