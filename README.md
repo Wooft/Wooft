@@ -14,6 +14,9 @@ Linux, Windows, Bash, Python, Django Framework, Flask, Asyncio, PostgreSQL, Ngin
 3. Программа парсинга данных с сайта одного из поставщиков для ООО "С-Мастер" </br>
    Python, AsyncIO </br>
    https://github.com/Wooft/Parser_Lvtrade
+4. Тестовое задание для ООО "Пикассо" Загрузка и обработка файлов </br>
+   Python, Celery, Docker, Django, Postgres </br>
+   https://github.com/Wooft/upload_and_processing_files
 
 ### Мои сертификаты:
 #### Python </br>
